@@ -1,0 +1,7 @@
+<meta>  
+    <script src="C.lua" type="client" cache="false" />
+
+    <file src="food.png"/>
+    <file src="drink.png"/>
+    <file src="files/map.png"/>
+</meta>
